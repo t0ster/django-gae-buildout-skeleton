@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+*.db
+
+.gaedata
+.mr.developer.cfg
+.installed.cfg
+bin
+develop-eggs
+dist
+*.egg-info
+parts
+build
+downloads
+eggs
+src
